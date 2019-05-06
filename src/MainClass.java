@@ -5,5 +5,6 @@ public class MainClass {
         int b =  a/10 + (a%10);
         System.out.println("summ is " + b);
         System.out.println("application ended");
+        System.out.println("Good BYE");
     }
 }
